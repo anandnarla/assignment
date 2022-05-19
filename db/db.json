@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "name": "anand",
+            "role": "admin",
+            "password": "abc"
+        },
+        {
+            "name": "raju",
+            "role": "user",
+            "password": "123"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Anand Narla",
+            "address": "Hyderabad",
+            "phone": "123435",
+            "salary": "1000000"
+        },
+        {
+            "id": 2,
+            "name": "Solmon Raju Maganti",
+            "address": "Chennai",
+            "phone": "1234351",
+            "salary": "2500000"
+        },
+        {
+            "id": 3,
+            "name": "Ramesh Kakinada",
+            "address": "Kakiada",
+            "phone": "1234352",
+            "salary": "2500001"
+        }
+    ]
+}
